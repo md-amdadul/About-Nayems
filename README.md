@@ -36,7 +36,6 @@
 ---
 
 ### 📂 Featured Projects
-*(You can add your GitHub project links here later)*
 
 - 🎮 Runner Game with Pygame → _Coming Soon_  
 - 📱 Digital Tools for Learning → _Work in progress_  
