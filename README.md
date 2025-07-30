@@ -43,7 +43,7 @@
 ---
 
 ### ✨ Personal Motto
-> “Dream big, work hard, stay humble — and never stop learning.”
+> “never stop learning.”
 
 ---
 
